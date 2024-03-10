@@ -2,3 +2,13 @@ header {
     background-color: aquamarine;
     padding: 20px;
 }
+
+p {
+    background-color: beige;
+    margin: 10px 0 0;
+    padding: 10px;
+    text-align: justify;
+    line-height: 20px;
+    font-size: 15px;
+    font-family: cursive;
+}
