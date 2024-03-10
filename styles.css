@@ -5,10 +5,39 @@ header {
 
 p {
     background-color: beige;
-    margin: 10px 0 0;
+    margin: 10px 0;
     padding: 10px;
     text-align: justify;
     line-height: 20px;
     font-size: 15px;
     font-family: cursive;
+}
+
+.skills {
+padding: 10px;
+border: 1px solid black;
+margin: 20px 0;
+}
+
+#info {
+    background-color: bisque;
+    padding: 10px;
+}
+
+@media screen and (max-width: 768px) {
+    header {
+        padding: 10px;
+    }
+
+    p {
+        padding: 8px; 
+    }
+
+    .skills {
+        padding: 8px; 
+    }
+
+    #info {
+        padding: 10px; 
+    }
 }
