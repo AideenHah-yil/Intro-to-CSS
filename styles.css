@@ -1,5 +1,12 @@
+body {
+    background-color: bisque;
+    padding: 20px;
+    height: 100vh;
+    overflow-y: scroll;
+}
+
 header {
-    background-color: aquamarine;
+    background-color: whitesmoke;
     padding: 20px;
 }
 
@@ -20,7 +27,7 @@ margin: 20px 0;
 }
 
 #info {
-    background-color: bisque;
+    background-color: rgb(48, 202, 202);
     padding: 10px;
 }
 
